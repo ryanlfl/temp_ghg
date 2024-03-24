@@ -1,0 +1,22 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body{
+    background-color: #f6f6ea;
+}
+
+#cog_input_excel{
+    border: black dotted 0.15rem;
+}
+
+#help_button:hover {
+    opacity: 100%;
+}
+
+.AccordionPanelClass{
+    max-height: '40vh';
+    overflow-x: 'hidden';
+    overflow-y: 'scroll';
+}
